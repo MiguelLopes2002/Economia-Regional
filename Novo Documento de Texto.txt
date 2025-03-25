@@ -26,11 +26,76 @@ De acordo com o art. 3º, I, da Lei nº 11.445/2007, modificada pela Lei nº14.0
 
 
 
-
-
-
+Produção e distribuição de vapor, água quente e ar condicionado = 57
+Captação, tratamento e distribuição de água = 9.308
+Distribuição de água por caminhões = 19
+Gestão de redes de esgoto = 39
+Atividades relacionadas a esgoto, exceto a gestão de redes = 407
+Coleta de resíduos não-perigosos = 4.942
+Coleta de resíduos perigosos = 302
+Tratamento e disposição de resíduos não-perigosos = 323
+Tratamento e disposição de resíduos perigosos = 223
 
 
 
 INSTITUTO TRATA BRASIL. Renda do trabalhador com saneamento é R$ 1.255,53 maior do que a de quem não tem acesso. Disponível em: https://tratabrasil.org.br/renda-trabalhador-saneamento. Acesso em: 30 dez. 2024.
 INSTITUTO TRATA BRASIL. R$ 126 mil de diferença na renda ao longo da vida para quem tem saneamento. Disponível em: https://tratabrasil.org.br/r-126-mil-diferenca-renda-com-sem-saneamento. Acesso em: 30 dez. 2024.
+
+Método de extração hipotética
+
+1. Análise de cenários (scenario analysis)
+Por que é inovador?
+Em muitos artigos de insumo-produto, o foco é um único choque estático, sem discussão dos caminhos alternativos. Você pode propor diferentes hipóteses sobre a magnitude e o timing do investimento em saneamento.
+Como fazer:
+Defina 2 ou 3 cenários contrastantes, por exemplo:
+Cenário pessimista: investimentos menores (ou atrasados) com base em alguma redução de projeção populacional ou restrição orçamentária.
+Cenário-base: o cenário que você descreveu (investimento per capita multiplicado pela população até 2033).
+Cenário otimista: investimentos maiores, antecipados, ou com taxas de crescimento populacional mais elevadas.
+Para cada cenário, aplique o choque na matriz e avalie os resultados. Discuta o porquê das diferenças nos impactos (diretos e indiretos) nos demais setores. Isso adiciona uma camada de análise sem exigir um método completamente diferente.
+2. Incorporação de elementos ambientais ou sociais
+Por que é inovador?
+Dependendo da linha editorial da revista, conectar saneamento às questões ambientais (tratamento de efluentes, redução de poluição) ou sociais (redução de doenças, impacto em saúde pública) pode gerar interesse extra.
+Como fazer:
+Se existirem dados sobre emissões setoriais (ex.: CO₂, poluentes) ou indicadores sociais (IDH, saúde) vinculados ao setor de saneamento, você pode criar um indicador de impacto ambiental/social estimado a partir do choque de produção.
+Mesmo que não tenha dados detalhados, uma discussão qualitativa ou parcial, amparada em referências que relacionem saneamento e benefícios ambientais/sociais, mostra que seu estudo não se limita ao cálculo econômico.
+3. Uso do Método de Extração Hipotética (Hypothetical Extraction)
+Por que é inovador?
+O método de extração hipotética (HEM) é relativamente conhecido na literatura de insumo-produto, mas nem sempre é aplicado, e ainda pode ser considerado um “twist” interessante. A ideia é medir a “importância” de um setor (ou conjunto de setores) simulando sua total ou parcial extração e medindo o impacto no resto da economia.
+No seu caso, ao invés de extrair, você pode fazer uma variação parcial para ver como a ausência do investimento em saneamento (ou uma redução acentuada) afetaria a economia e compará-la com o cenário do choque positivo.
+Como fazer:
+Basicamente, “zere” a produção do setor de água e esgoto ou reduza à metade, etc., para capturar a perda de produção (e encadeamentos) decorrentes disso.
+Apresente ao lado do cenário-base, gerando uma narrativa do tipo: “O ganho líquido em relação à situação de sub-investimento ou ausência de novos recursos no setor”.
+5. Agregar alguma variável de bem-estar ou valor agregado setorial
+Por que é inovador?
+Ao invés de apresentar apenas valor de produção ou PIB, você pode tentar um recorte adicional:
+Valor Agregado Setorial: qual é o impacto do choque sobre a massa salarial ou a renda do trabalho?
+Geração de Emprego: se tiver coeficientes de emprego setoriais, mesmo que simples, você consegue estimar quantos postos de trabalho podem ser criados.
+Arrecadação tributária: se houver dados de tributos setoriais, pode estimar impacto em impostos.
+Como fazer:
+Muitos modelos e matrizes insumo-produto já trazem o valor adicionado e a composição por fator (trabalho, capital, impostos). Use as relações para transformar o impacto em indicadores socioeconômicos.
+Além de mostrar o impacto no PIB, você mostra, por exemplo, quantos empregos formais (ou vagas de trabalho) podem surgir, ou quanta receita de ICMS, ISS, etc., pode ser gerada.
+Esse tipo de resultado torna o artigo mais “prático” e relevante para gestores públicos e planejadores.
+6. Discussão de economia regional ou sub-regional
+Por que é inovador?
+Se você tiver dados ou referências que permitam mapear a distribuição setorial por regiões do RS, poderia discutir como o choque se espalha territorialmente.
+Mesmo sem uma divisão espacial detalhada, uma breve discussão sobre quais regiões se beneficiariam mais do investimento em saneamento (ex.: regiões metropolitanas vs. interior) dá um tempero regional ao texto.
+Como fazer:
+Caso não tenha dados setoriais regionais, é possível citar estudos do governo estadual ou do IBGE (se existirem) que falem sobre a localização geográfica da produção e do consumo de serviços de saneamento.
+Você pode, por exemplo, mapear quais municípios têm maiores carências de saneamento e argumentar que a maior parte do choque poderá ocorrer onde há déficit maior, etc.
+Dicas Finais
+Clareza na forma de apresentar resultados:
+Tenha tabelas bem organizadas mostrando o impacto setorial, o PIB adicional, o emprego (se possível), etc.
+Gráficos de barras ou de decomposição ajudam a “visualizar” quais setores são mais afetados.
+Transparência metodológica:
+Mesmo que seja “só” uma matriz insumo-produto, explique bem como foi construída, quais são as limitações, onde surgem hipóteses simplificadoras (por exemplo, ausência de elasticidades de preço etc.).
+Uma boa descrição metodológica dá credibilidade ao artigo, mesmo se não há algo super sofisticado.
+Enfoque político-econômico:
+Destaque que, além do efeito direto no setor de saneamento, há efeitos secundários importantes para a economia local.
+Saliente a relevância de investimentos em infraestrutura de saneamento para desenvolvimento de longo prazo (saúde, qualidade de vida, competitividade das empresas locais, etc.).
+Resultados contrafactuais:
+Sempre que possível, compare o “com investimento” vs. “sem investimento” ou com vs. sem novo marco regulatório. Isso ajuda a dar robustez ao argumento de que o novo marco pode trazer ganhos.
+Resumo da estratégia
+Diante das restrições de tempo e da impossibilidade de aplicar métodos mais complexos, o principal caminho é enriquecer a análise dentro do próprio arcabouço de insumo-produto, seja com cenários, sensibilidade, variáveis complementares (emprego, meio ambiente, arrecadação), ou mesmo comparações hipotéticas.
+No fim, o que torna um artigo publicável não é apenas a “técnica superavançada”, mas também a conexão da técnica com problemas reais, a originalidade na pergunta (ex.: “Qual o impacto do novo marco de saneamento no RS em diferentes cenários?”) e a clareza de apresentação. Isso já garante que seu estudo, mesmo “simples”, tenha um diferencial e possa ser bem aceito em uma revista, especialmente se tiver relevância prática e evidenciar alguma lacuna na literatura de saneamento e desenvolvimento regional.
+
+Ver qual o percentual de crescimento econômico (PIB, por exemplo) anual, projetar isso para 2033 e comparar com a ausência de novo marco legal do saneamento e com novo marco legal do saneamento, aplicando os choques junto à análise do crescimento. Daí no final tirar a diferença entre os 2 cenários.
